@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\Array.cs\bin\Debug\net10.0\Array.cs.exe
+C:\Users\Administrator\Documents\C# Project\Array.cs\bin\Debug\net10.0\Array.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\Array.cs\bin\Debug\net10.0\Array.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Array.cs\bin\Debug\net10.0\Array.cs.dll
+C:\Users\Administrator\Documents\C# Project\Array.cs\bin\Debug\net10.0\Array.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\Array.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\Array.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\Array.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\Array.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\Array.cs.dll
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\refint\Array.cs.dll
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\Array.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\Array.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Array.cs\obj\Debug\net10.0\ref\Array.cs.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\bin\Debug\net10.0\Calculators.cs.exe
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\bin\Debug\net10.0\Calculators.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\bin\Debug\net10.0\Calculators.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\bin\Debug\net10.0\Calculators.cs.dll
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\bin\Debug\net10.0\Calculators.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\Calculators.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\Calculators.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\Calculators.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\Calculators.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\Calculators.cs.dll
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\refint\Calculators.cs.dll
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\Calculators.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\Calculators.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Calculators.cs\obj\Debug\net10.0\ref\Calculators.cs.dll

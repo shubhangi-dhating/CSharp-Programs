@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\bin\Debug\net10.0\ASCII.cs.exe
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\bin\Debug\net10.0\ASCII.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\bin\Debug\net10.0\ASCII.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\bin\Debug\net10.0\ASCII.cs.dll
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\bin\Debug\net10.0\ASCII.cs.pdb
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\ASCII.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\ASCII.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\ASCII.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\ASCII.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\ASCII.cs.dll
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\refint\ASCII.cs.dll
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\ASCII.cs.pdb
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\ASCII.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\ASCII.cs\obj\Debug\net10.0\ref\ASCII.cs.dll

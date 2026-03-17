@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\DoWhileLoop.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\DoWhileLoop.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\DoWhileLoop.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\DoWhileLoop.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\bin\Debug\net10.0\DoWhileLoop.cs.exe
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\bin\Debug\net10.0\DoWhileLoop.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\bin\Debug\net10.0\DoWhileLoop.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\bin\Debug\net10.0\DoWhileLoop.cs.dll
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\bin\Debug\net10.0\DoWhileLoop.cs.pdb
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\DoWhileLoop.cs.dll
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\refint\DoWhileLoop.cs.dll
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\DoWhileLoop.cs.pdb
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\DoWhileLoop.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\DoWhileLoop.cs\obj\Debug\net10.0\ref\DoWhileLoop.cs.dll

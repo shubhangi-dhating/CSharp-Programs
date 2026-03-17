@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\Operators.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\Operators.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\Operators.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\Operators.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Operators.cs\bin\Debug\net10.0\Operators.cs.exe
+C:\Users\Administrator\Documents\C# Project\Operators.cs\bin\Debug\net10.0\Operators.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\Operators.cs\bin\Debug\net10.0\Operators.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Operators.cs\bin\Debug\net10.0\Operators.cs.dll
+C:\Users\Administrator\Documents\C# Project\Operators.cs\bin\Debug\net10.0\Operators.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\Operators.cs.dll
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\refint\Operators.cs.dll
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\Operators.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\Operators.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Operators.cs\obj\Debug\net10.0\ref\Operators.cs.dll

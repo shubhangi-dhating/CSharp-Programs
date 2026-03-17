@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\bin\Debug\net10.0\SalaryAllowances.cs.exe
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\bin\Debug\net10.0\SalaryAllowances.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\bin\Debug\net10.0\SalaryAllowances.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\bin\Debug\net10.0\SalaryAllowances.cs.dll
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\bin\Debug\net10.0\SalaryAllowances.cs.pdb
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\SalaryAllowances.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\SalaryAllowances.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\SalaryAllowances.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\SalaryAllowances.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\SalaryAllowances.cs.dll
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\refint\SalaryAllowances.cs.dll
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\SalaryAllowances.cs.pdb
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\SalaryAllowances.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\SalaryAllowances.cs\obj\Debug\net10.0\ref\SalaryAllowances.cs.dll

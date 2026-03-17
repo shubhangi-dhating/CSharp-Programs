@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\bin\Debug\net10.0\MyFirstApp.exe
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\bin\Debug\net10.0\MyFirstApp.deps.json
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\bin\Debug\net10.0\MyFirstApp.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\bin\Debug\net10.0\MyFirstApp.dll
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\bin\Debug\net10.0\MyFirstApp.pdb
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\MyFirstApp.dll
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\refint\MyFirstApp.dll
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\MyFirstApp.pdb
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\MyFirstApp.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\ref\MyFirstApp.dll
+C:\Users\Administrator\Documents\C# Project\MyFirstApp\obj\Debug\net10.0\MyFirstApp.sourcelink.json

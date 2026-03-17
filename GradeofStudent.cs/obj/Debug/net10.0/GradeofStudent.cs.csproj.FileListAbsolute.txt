@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\GradeofStudent.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\GradeofStudent.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\GradeofStudent.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\GradeofStudent.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\bin\Debug\net10.0\GradeofStudent.cs.exe
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\bin\Debug\net10.0\GradeofStudent.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\bin\Debug\net10.0\GradeofStudent.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\bin\Debug\net10.0\GradeofStudent.cs.dll
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\bin\Debug\net10.0\GradeofStudent.cs.pdb
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\GradeofStudent.cs.dll
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\refint\GradeofStudent.cs.dll
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\GradeofStudent.cs.pdb
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\GradeofStudent.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\GradeofStudent.cs\obj\Debug\net10.0\ref\GradeofStudent.cs.dll

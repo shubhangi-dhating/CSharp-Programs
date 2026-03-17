@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\bin\Debug\net10.0\PrimenumberRange.cs.exe
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\bin\Debug\net10.0\PrimenumberRange.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\bin\Debug\net10.0\PrimenumberRange.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\bin\Debug\net10.0\PrimenumberRange.cs.dll
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\bin\Debug\net10.0\PrimenumberRange.cs.pdb
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\PrimenumberRange.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\PrimenumberRange.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\PrimenumberRange.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\PrimenumberRange.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\PrimenumberRange.cs.dll
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\refint\PrimenumberRange.cs.dll
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\PrimenumberRange.cs.pdb
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\PrimenumberRange.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\PrimenumberRange.cs\obj\Debug\net10.0\ref\PrimenumberRange.cs.dll

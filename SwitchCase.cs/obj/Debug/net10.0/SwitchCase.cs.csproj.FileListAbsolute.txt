@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\SwitchCase.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\SwitchCase.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\SwitchCase.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\SwitchCase.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\bin\Debug\net10.0\SwitchCase.cs.exe
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\bin\Debug\net10.0\SwitchCase.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\bin\Debug\net10.0\SwitchCase.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\bin\Debug\net10.0\SwitchCase.cs.dll
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\bin\Debug\net10.0\SwitchCase.cs.pdb
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\SwitchCase.cs.dll
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\refint\SwitchCase.cs.dll
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\SwitchCase.cs.pdb
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\SwitchCase.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\SwitchCase.cs\obj\Debug\net10.0\ref\SwitchCase.cs.dll

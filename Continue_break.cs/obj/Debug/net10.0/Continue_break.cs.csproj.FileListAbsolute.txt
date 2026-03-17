@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\Continue_break.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\Continue_break.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\Continue_break.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\Continue_break.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\bin\Debug\net10.0\Continue_break.cs.exe
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\bin\Debug\net10.0\Continue_break.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\bin\Debug\net10.0\Continue_break.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\bin\Debug\net10.0\Continue_break.cs.dll
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\bin\Debug\net10.0\Continue_break.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\Continue_break.cs.dll
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\refint\Continue_break.cs.dll
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\Continue_break.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\Continue_break.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Continue_break.cs\obj\Debug\net10.0\ref\Continue_break.cs.dll

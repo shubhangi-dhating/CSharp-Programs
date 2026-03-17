@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\bin\Debug\net10.0\Sum_of_Natural_Numbers.cs.exe
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\bin\Debug\net10.0\Sum_of_Natural_Numbers.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\bin\Debug\net10.0\Sum_of_Natural_Numbers.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\bin\Debug\net10.0\Sum_of_Natural_Numbers.cs.dll
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\bin\Debug\net10.0\Sum_of_Natural_Numbers.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\Sum_of_Natural_Numbers.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\Sum_of_Natural_Numbers.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\Sum_of_Natural_Numbers.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\Sum_of_Natural_Numbers.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\Sum_of_Natural_Numbers.cs.dll
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\refint\Sum_of_Natural_Numbers.cs.dll
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\Sum_of_Natural_Numbers.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\Sum_of_Natural_Numbers.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Sum_of_Natural_Numbers.cs\obj\Debug\net10.0\ref\Sum_of_Natural_Numbers.cs.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GCD_LCM.cs/1.0.0": {
+        "runtime": {
+          "GCD_LCM.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCD_LCM.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

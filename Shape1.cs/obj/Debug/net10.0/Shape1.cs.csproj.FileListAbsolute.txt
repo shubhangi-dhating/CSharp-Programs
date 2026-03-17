@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\bin\Debug\net10.0\Shape1.cs.exe
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\bin\Debug\net10.0\Shape1.cs.deps.json
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\bin\Debug\net10.0\Shape1.cs.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\bin\Debug\net10.0\Shape1.cs.dll
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\bin\Debug\net10.0\Shape1.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\Shape1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\Shape1.cs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\Shape1.cs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\Shape1.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\Shape1.cs.dll
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\refint\Shape1.cs.dll
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\Shape1.cs.pdb
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\Shape1.cs.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Shape1.cs\obj\Debug\net10.0\ref\Shape1.cs.dll

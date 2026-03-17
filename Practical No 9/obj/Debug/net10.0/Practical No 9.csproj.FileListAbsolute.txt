@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Practical No 9\bin\Debug\net10.0\Practical No 9.exe
+C:\Users\Administrator\Documents\C# Project\Practical No 9\bin\Debug\net10.0\Practical No 9.deps.json
+C:\Users\Administrator\Documents\C# Project\Practical No 9\bin\Debug\net10.0\Practical No 9.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Practical No 9\bin\Debug\net10.0\Practical No 9.dll
+C:\Users\Administrator\Documents\C# Project\Practical No 9\bin\Debug\net10.0\Practical No 9.pdb
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\Practical No 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\Practical No 9.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\Practical No 9.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\Practical No 9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\Practical No 9.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\Practical No 9.dll
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\refint\Practical No 9.dll
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\Practical No 9.pdb
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\Practical No 9.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Practical No 9\obj\Debug\net10.0\ref\Practical No 9.dll
