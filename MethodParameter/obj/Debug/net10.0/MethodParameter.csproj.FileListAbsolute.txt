@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\bin\Debug\net10.0\MethodParameter.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\bin\Debug\net10.0\MethodParameter.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\bin\Debug\net10.0\MethodParameter.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\bin\Debug\net10.0\MethodParameter.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\bin\Debug\net10.0\MethodParameter.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\MethodParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\MethodParameter.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\MethodParameter.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\MethodParameter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\MethodParameter.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\MethodParameter.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\refint\MethodParameter.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\MethodParameter.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\MethodParameter.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\MethodParameter\obj\Debug\net10.0\ref\MethodParameter.dll

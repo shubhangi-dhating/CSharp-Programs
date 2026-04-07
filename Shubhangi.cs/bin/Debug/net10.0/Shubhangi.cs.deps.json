@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Shubhangi.cs/1.0.0": {
+        "runtime": {
+          "Shubhangi.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shubhangi.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

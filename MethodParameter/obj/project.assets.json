@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharp-Programs\\Shubhangi.cs\\Shubhangi.cs.csproj",
-      "projectName": "Shubhangi.cs",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharp-Programs\\Shubhangi.cs\\Shubhangi.cs.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CSharp-Programs\\MethodParameter\\MethodParameter.csproj",
+      "projectName": "MethodParameter",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\CSharp-Programs\\MethodParameter\\MethodParameter.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharp-Programs\\Shubhangi.cs\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\CSharp-Programs\\MethodParameter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
