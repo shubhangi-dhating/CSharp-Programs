@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\bin\Debug\net10.0\Anagram_strings.exe
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\bin\Debug\net10.0\Anagram_strings.deps.json
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\bin\Debug\net10.0\Anagram_strings.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\bin\Debug\net10.0\Anagram_strings.dll
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\bin\Debug\net10.0\Anagram_strings.pdb
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\Anagram_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\Anagram_strings.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\Anagram_strings.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\Anagram_strings.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\Anagram_strings.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\Anagram_strings.dll
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\refint\Anagram_strings.dll
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\Anagram_strings.pdb
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\Anagram_strings.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Anagram_strings\obj\Debug\net10.0\ref\Anagram_strings.dll

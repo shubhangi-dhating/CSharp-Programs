@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\bin\Debug\net10.0\Span_and_ReadOnlySpan.exe
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\bin\Debug\net10.0\Span_and_ReadOnlySpan.deps.json
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\bin\Debug\net10.0\Span_and_ReadOnlySpan.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\bin\Debug\net10.0\Span_and_ReadOnlySpan.dll
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\bin\Debug\net10.0\Span_and_ReadOnlySpan.pdb
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\Span_and_ReadOnlySpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\Span_and_ReadOnlySpan.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\Span_and_ReadOnlySpan.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\Span_and_ReadOnlySpan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\Span_and_ReadOnlySpan.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\Span_and_ReadOnlySpan.dll
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\refint\Span_and_ReadOnlySpan.dll
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\Span_and_ReadOnlySpan.pdb
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\Span_and_ReadOnlySpan.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Span_and_ReadOnlySpan\obj\Debug\net10.0\ref\Span_and_ReadOnlySpan.dll

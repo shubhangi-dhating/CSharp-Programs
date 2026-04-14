@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\bin\Debug\net10.0\Immutability_of_strings.exe
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\bin\Debug\net10.0\Immutability_of_strings.deps.json
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\bin\Debug\net10.0\Immutability_of_strings.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\bin\Debug\net10.0\Immutability_of_strings.dll
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\bin\Debug\net10.0\Immutability_of_strings.pdb
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\Immutability_of_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\Immutability_of_strings.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\Immutability_of_strings.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\Immutability_of_strings.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\Immutability_of_strings.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\Immutability_of_strings.dll
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\refint\Immutability_of_strings.dll
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\Immutability_of_strings.pdb
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\Immutability_of_strings.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Immutability_of_strings\obj\Debug\net10.0\ref\Immutability_of_strings.dll

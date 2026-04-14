@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\bin\Debug\net10.0\SameElement_into_TwoArray.exe
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\bin\Debug\net10.0\SameElement_into_TwoArray.deps.json
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\bin\Debug\net10.0\SameElement_into_TwoArray.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\bin\Debug\net10.0\SameElement_into_TwoArray.dll
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\bin\Debug\net10.0\SameElement_into_TwoArray.pdb
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\SameElement_into_TwoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\SameElement_into_TwoArray.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\SameElement_into_TwoArray.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\SameElement_into_TwoArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\SameElement_into_TwoArray.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\SameElement_into_TwoArray.dll
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\refint\SameElement_into_TwoArray.dll
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\SameElement_into_TwoArray.pdb
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\SameElement_into_TwoArray.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\SameElement_into_TwoArray\obj\Debug\net10.0\ref\SameElement_into_TwoArray.dll

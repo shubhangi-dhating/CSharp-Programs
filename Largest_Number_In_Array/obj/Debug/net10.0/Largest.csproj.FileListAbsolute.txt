@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\bin\Debug\net10.0\Largest.exe
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\bin\Debug\net10.0\Largest.deps.json
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\bin\Debug\net10.0\Largest.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\bin\Debug\net10.0\Largest.dll
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\bin\Debug\net10.0\Largest.pdb
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\Largest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\Largest.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\Largest.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\Largest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\Largest.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\Largest.dll
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\refint\Largest.dll
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\Largest.pdb
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\Largest.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Largest_Number_In_Array\obj\Debug\net10.0\ref\Largest.dll

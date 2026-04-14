@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Named_Argument\bin\Debug\net10.0\Named_Argument.exe
+C:\Users\Administrator\Documents\C# Project\Named_Argument\bin\Debug\net10.0\Named_Argument.deps.json
+C:\Users\Administrator\Documents\C# Project\Named_Argument\bin\Debug\net10.0\Named_Argument.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Named_Argument\bin\Debug\net10.0\Named_Argument.dll
+C:\Users\Administrator\Documents\C# Project\Named_Argument\bin\Debug\net10.0\Named_Argument.pdb
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\Named_Argument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\Named_Argument.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\Named_Argument.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\Named_Argument.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\Named_Argument.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\Named_Argument.dll
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\refint\Named_Argument.dll
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\Named_Argument.pdb
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\Named_Argument.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Named_Argument\obj\Debug\net10.0\ref\Named_Argument.dll

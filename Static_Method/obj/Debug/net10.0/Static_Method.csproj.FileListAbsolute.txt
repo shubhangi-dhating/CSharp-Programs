@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Static_Method\bin\Debug\net10.0\Static_Method.exe
+C:\Users\Administrator\Documents\C# Project\Static_Method\bin\Debug\net10.0\Static_Method.deps.json
+C:\Users\Administrator\Documents\C# Project\Static_Method\bin\Debug\net10.0\Static_Method.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Static_Method\bin\Debug\net10.0\Static_Method.dll
+C:\Users\Administrator\Documents\C# Project\Static_Method\bin\Debug\net10.0\Static_Method.pdb
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\Static_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\Static_Method.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\Static_Method.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\Static_Method.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\Static_Method.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\Static_Method.dll
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\refint\Static_Method.dll
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\Static_Method.pdb
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\Static_Method.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Static_Method\obj\Debug\net10.0\ref\Static_Method.dll

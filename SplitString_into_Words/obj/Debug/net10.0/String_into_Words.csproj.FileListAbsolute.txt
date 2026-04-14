@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\String_into_Words\bin\Debug\net10.0\String_into_Words.exe
+C:\Users\Administrator\Documents\C# Project\String_into_Words\bin\Debug\net10.0\String_into_Words.deps.json
+C:\Users\Administrator\Documents\C# Project\String_into_Words\bin\Debug\net10.0\String_into_Words.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\String_into_Words\bin\Debug\net10.0\String_into_Words.dll
+C:\Users\Administrator\Documents\C# Project\String_into_Words\bin\Debug\net10.0\String_into_Words.pdb
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\String_into_Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\String_into_Words.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\String_into_Words.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\String_into_Words.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\String_into_Words.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\String_into_Words.dll
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\refint\String_into_Words.dll
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\String_into_Words.pdb
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\String_into_Words.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\String_into_Words\obj\Debug\net10.0\ref\String_into_Words.dll

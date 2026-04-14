@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\bin\Debug\net10.0\memory_management_basics.exe
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\bin\Debug\net10.0\memory_management_basics.deps.json
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\bin\Debug\net10.0\memory_management_basics.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\bin\Debug\net10.0\memory_management_basics.dll
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\bin\Debug\net10.0\memory_management_basics.pdb
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\memory_management_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\memory_management_basics.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\memory_management_basics.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\memory_management_basics.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\memory_management_basics.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\memory_management_basics.dll
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\refint\memory_management_basics.dll
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\memory_management_basics.pdb
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\memory_management_basics.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\memory_management_basics\obj\Debug\net10.0\ref\memory_management_basics.dll

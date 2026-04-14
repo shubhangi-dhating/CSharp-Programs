@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\String_Conversion\bin\Debug\net10.0\String_Conversion.exe
+C:\Users\Administrator\Documents\C# Project\String_Conversion\bin\Debug\net10.0\String_Conversion.deps.json
+C:\Users\Administrator\Documents\C# Project\String_Conversion\bin\Debug\net10.0\String_Conversion.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\String_Conversion\bin\Debug\net10.0\String_Conversion.dll
+C:\Users\Administrator\Documents\C# Project\String_Conversion\bin\Debug\net10.0\String_Conversion.pdb
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\String_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\String_Conversion.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\String_Conversion.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\String_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\String_Conversion.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\String_Conversion.dll
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\refint\String_Conversion.dll
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\String_Conversion.pdb
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\String_Conversion.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\String_Conversion\obj\Debug\net10.0\ref\String_Conversion.dll

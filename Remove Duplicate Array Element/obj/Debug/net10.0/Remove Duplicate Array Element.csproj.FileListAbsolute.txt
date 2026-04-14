@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\bin\Debug\net10.0\Remove Duplicate Array Element.exe
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\bin\Debug\net10.0\Remove Duplicate Array Element.deps.json
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\bin\Debug\net10.0\Remove Duplicate Array Element.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\bin\Debug\net10.0\Remove Duplicate Array Element.dll
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\bin\Debug\net10.0\Remove Duplicate Array Element.pdb
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\Remove Duplicate Array Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\Remove Duplicate Array Element.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\Remove Duplicate Array Element.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\Remove Duplicate Array Element.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\Remove Duplicate Array Element.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\Remove Duplicate Array Element.dll
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\refint\Remove Duplicate Array Element.dll
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\Remove Duplicate Array Element.pdb
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\Remove Duplicate Array Element.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Remove Duplicate Array Element\obj\Debug\net10.0\ref\Remove Duplicate Array Element.dll

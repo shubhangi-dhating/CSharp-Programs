@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\bin\Debug\net10.0\multidimensional_Array.exe
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\bin\Debug\net10.0\multidimensional_Array.deps.json
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\bin\Debug\net10.0\multidimensional_Array.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\bin\Debug\net10.0\multidimensional_Array.dll
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\bin\Debug\net10.0\multidimensional_Array.pdb
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\multidimensional_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\multidimensional_Array.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\multidimensional_Array.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\multidimensional_Array.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\multidimensional_Array.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\multidimensional_Array.dll
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\refint\multidimensional_Array.dll
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\multidimensional_Array.pdb
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\multidimensional_Array.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\multidimensional_Array\obj\Debug\net10.0\ref\multidimensional_Array.dll

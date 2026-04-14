@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\bin\Debug\net10.0\Smallest And Largest Element of Array.exe
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\bin\Debug\net10.0\Smallest And Largest Element of Array.deps.json
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\bin\Debug\net10.0\Smallest And Largest Element of Array.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\bin\Debug\net10.0\Smallest And Largest Element of Array.dll
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\bin\Debug\net10.0\Smallest And Largest Element of Array.pdb
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\Smallest And Largest Element of Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\Smallest And Largest Element of Array.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\Smallest And Largest Element of Array.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\Smallest And Largest Element of Array.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\Smallest And Largest Element of Array.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\Smallest And Largest Element of Array.dll
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\refint\Smallest And Largest Element of Array.dll
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\Smallest And Largest Element of Array.pdb
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\Smallest And Largest Element of Array.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Smallest And Largest Element of Array\obj\Debug\net10.0\ref\Smallest And Largest Element of Array.dll

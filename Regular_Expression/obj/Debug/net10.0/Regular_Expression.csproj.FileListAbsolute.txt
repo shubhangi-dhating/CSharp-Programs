@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\bin\Debug\net10.0\Regular_Expression.exe
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\bin\Debug\net10.0\Regular_Expression.deps.json
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\bin\Debug\net10.0\Regular_Expression.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\bin\Debug\net10.0\Regular_Expression.dll
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\bin\Debug\net10.0\Regular_Expression.pdb
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\Regular_Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\Regular_Expression.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\Regular_Expression.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\Regular_Expression.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\Regular_Expression.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\Regular_Expression.dll
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\refint\Regular_Expression.dll
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\Regular_Expression.pdb
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\Regular_Expression.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Regular_Expression\obj\Debug\net10.0\ref\Regular_Expression.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\bin\Debug\net10.0\Array_To_Method.exe
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\bin\Debug\net10.0\Array_To_Method.deps.json
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\bin\Debug\net10.0\Array_To_Method.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\bin\Debug\net10.0\Array_To_Method.dll
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\bin\Debug\net10.0\Array_To_Method.pdb
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\Array_To_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\Array_To_Method.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\Array_To_Method.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\Array_To_Method.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\Array_To_Method.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\Array_To_Method.dll
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\refint\Array_To_Method.dll
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\Array_To_Method.pdb
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\Array_To_Method.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Array_To_Method\obj\Debug\net10.0\ref\Array_To_Method.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Immutability_of_strings/1.0.0": {
+        "runtime": {
+          "Immutability_of_strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Immutability_of_strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

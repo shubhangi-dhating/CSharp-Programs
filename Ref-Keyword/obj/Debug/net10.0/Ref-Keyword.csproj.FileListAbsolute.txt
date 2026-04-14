@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\bin\Debug\net10.0\Ref-Keyword.exe
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\bin\Debug\net10.0\Ref-Keyword.deps.json
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\bin\Debug\net10.0\Ref-Keyword.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\bin\Debug\net10.0\Ref-Keyword.dll
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\bin\Debug\net10.0\Ref-Keyword.pdb
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\Ref-Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\Ref-Keyword.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\Ref-Keyword.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\Ref-Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\Ref-Keyword.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\Ref-Keyword.dll
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\refint\Ref-Keyword.dll
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\Ref-Keyword.pdb
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\Ref-Keyword.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Ref-Keyword\obj\Debug\net10.0\ref\Ref-Keyword.dll

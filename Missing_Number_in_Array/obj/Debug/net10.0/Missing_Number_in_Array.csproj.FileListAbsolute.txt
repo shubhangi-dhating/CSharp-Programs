@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\bin\Debug\net10.0\Missing_Number_in_Array.exe
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\bin\Debug\net10.0\Missing_Number_in_Array.deps.json
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\bin\Debug\net10.0\Missing_Number_in_Array.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\bin\Debug\net10.0\Missing_Number_in_Array.dll
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\bin\Debug\net10.0\Missing_Number_in_Array.pdb
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\Missing_Number_in_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\Missing_Number_in_Array.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\Missing_Number_in_Array.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\Missing_Number_in_Array.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\Missing_Number_in_Array.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\Missing_Number_in_Array.dll
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\refint\Missing_Number_in_Array.dll
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\Missing_Number_in_Array.pdb
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\Missing_Number_in_Array.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Missing_Number_in_Array\obj\Debug\net10.0\ref\Missing_Number_in_Array.dll

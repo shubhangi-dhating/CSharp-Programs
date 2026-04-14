@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Missing_Number_in_Array/1.0.0": {
+        "runtime": {
+          "Missing_Number_in_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Missing_Number_in_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

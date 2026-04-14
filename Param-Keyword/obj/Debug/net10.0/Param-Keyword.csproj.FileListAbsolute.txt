@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\bin\Debug\net10.0\Param-Keyword.exe
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\bin\Debug\net10.0\Param-Keyword.deps.json
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\bin\Debug\net10.0\Param-Keyword.runtimeconfig.json
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\bin\Debug\net10.0\Param-Keyword.dll
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\bin\Debug\net10.0\Param-Keyword.pdb
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\Param-Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\Param-Keyword.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\Param-Keyword.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\Param-Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\Param-Keyword.sourcelink.json
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\Param-Keyword.dll
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\refint\Param-Keyword.dll
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\Param-Keyword.pdb
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\Param-Keyword.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# Project\Param-Keyword\obj\Debug\net10.0\ref\Param-Keyword.dll
