@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\bin\Debug\net10.0\Constructor.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\bin\Debug\net10.0\Constructor.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\bin\Debug\net10.0\Constructor.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\bin\Debug\net10.0\Constructor.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\bin\Debug\net10.0\Constructor.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\Constructor.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\Constructor.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\Constructor.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\refint\Constructor.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\Constructor.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\Constructor.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Constructor\obj\Debug\net10.0\ref\Constructor.dll

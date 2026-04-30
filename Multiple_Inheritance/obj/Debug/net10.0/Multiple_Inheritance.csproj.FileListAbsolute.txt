@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\bin\Debug\net10.0\Multiple_Inheritance.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\bin\Debug\net10.0\Multiple_Inheritance.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\bin\Debug\net10.0\Multiple_Inheritance.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\bin\Debug\net10.0\Multiple_Inheritance.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\bin\Debug\net10.0\Multiple_Inheritance.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\Multiple_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\Multiple_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\Multiple_Inheritance.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\Multiple_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\Multiple_Inheritance.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\Multiple_Inheritance.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\refint\Multiple_Inheritance.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\Multiple_Inheritance.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\Multiple_Inheritance.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Multiple_Inheritance\obj\Debug\net10.0\ref\Multiple_Inheritance.dll

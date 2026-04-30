@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\bin\Debug\net10.0\readonly_vs_const.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\bin\Debug\net10.0\readonly_vs_const.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\bin\Debug\net10.0\readonly_vs_const.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\bin\Debug\net10.0\readonly_vs_const.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\bin\Debug\net10.0\readonly_vs_const.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\readonly_vs_const.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\readonly_vs_const.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\readonly_vs_const.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\readonly_vs_const.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\readonly_vs_const.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\readonly_vs_const.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\refint\readonly_vs_const.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\readonly_vs_const.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\readonly_vs_const.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\readonly_vs_const\obj\Debug\net10.0\ref\readonly_vs_const.dll

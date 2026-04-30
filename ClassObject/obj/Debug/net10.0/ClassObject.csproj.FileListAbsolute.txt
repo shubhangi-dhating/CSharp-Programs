@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\bin\Debug\net10.0\ClassObject.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\bin\Debug\net10.0\ClassObject.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\bin\Debug\net10.0\ClassObject.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\bin\Debug\net10.0\ClassObject.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\bin\Debug\net10.0\ClassObject.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ClassObject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ClassObject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ClassObject.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ClassObject.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\refint\ClassObject.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ClassObject.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ClassObject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\ClassObject\obj\Debug\net10.0\ref\ClassObject.dll

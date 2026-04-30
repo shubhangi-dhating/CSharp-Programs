@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\bin\Debug\net10.0\saled_class.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\bin\Debug\net10.0\saled_class.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\bin\Debug\net10.0\saled_class.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\bin\Debug\net10.0\saled_class.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\bin\Debug\net10.0\saled_class.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\saled_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\saled_class.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\saled_class.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\saled_class.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\saled_class.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\saled_class.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\refint\saled_class.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\saled_class.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\saled_class.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\saled_class\obj\Debug\net10.0\ref\saled_class.dll

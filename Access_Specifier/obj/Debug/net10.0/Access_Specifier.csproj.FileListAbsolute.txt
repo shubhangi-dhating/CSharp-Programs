@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\bin\Debug\net10.0\Access_Specifier.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\bin\Debug\net10.0\Access_Specifier.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\bin\Debug\net10.0\Access_Specifier.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\bin\Debug\net10.0\Access_Specifier.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\bin\Debug\net10.0\Access_Specifier.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\Access_Specifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\Access_Specifier.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\Access_Specifier.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\Access_Specifier.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\Access_Specifier.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\Access_Specifier.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\refint\Access_Specifier.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\Access_Specifier.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\Access_Specifier.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Access_Specifier\obj\Debug\net10.0\ref\Access_Specifier.dll

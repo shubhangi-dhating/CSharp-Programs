@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\bin\Debug\net10.0\Static_class.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\bin\Debug\net10.0\Static_class.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\bin\Debug\net10.0\Static_class.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\bin\Debug\net10.0\Static_class.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\bin\Debug\net10.0\Static_class.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\Static_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\Static_class.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\Static_class.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\Static_class.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\Static_class.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\Static_class.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\refint\Static_class.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\Static_class.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\Static_class.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Static_class\obj\Debug\net10.0\ref\Static_class.dll
