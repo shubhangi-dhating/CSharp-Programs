@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\bin\Debug\net10.0\File_based_CRUD_Application.exe
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\bin\Debug\net10.0\File_based_CRUD_Application.deps.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\bin\Debug\net10.0\File_based_CRUD_Application.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\bin\Debug\net10.0\File_based_CRUD_Application.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\bin\Debug\net10.0\File_based_CRUD_Application.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\File_based_CRUD_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\File_based_CRUD_Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\File_based_CRUD_Application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\File_based_CRUD_Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\File_based_CRUD_Application.sourcelink.json
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\File_based_CRUD_Application.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\refint\File_based_CRUD_Application.dll
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\File_based_CRUD_Application.pdb
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\File_based_CRUD_Application.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharp-Programs\Level4\File_based_CRUD_Application\obj\Debug\net10.0\ref\File_based_CRUD_Application.dll
